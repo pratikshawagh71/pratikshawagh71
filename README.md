@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pratiksha👋
 
 ### AI & ML Developer | Generative AI Enthusiast | Power BI & RAG Practitioner | Data Scientist
 Building intelligent dashboards & AI-powered solutions.
