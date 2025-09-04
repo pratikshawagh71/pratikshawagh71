@@ -6,12 +6,17 @@ Building intelligent dashboards & AI-powered solutions.
 ---
 
 ## About Me
-- Currently, my focus is centered around Machine Learning projects, especially:
-Developing and refining anomaly detection systems for high-impact analytics, including casino and gaming platforms.
-Building intelligent dashboards using Power BI, incorporating real-time insights powered by AI.
-Designing and deploying Retrieval-Augmented Generation (RAG) pipelines with LLMs for enhanced data retrieval and automation.
-Researching advanced techniques in Generative AI and integrating them with enterprise automation tools.
-Optimizing ML workflows and MLOps for continuous delivery and reliability in critical business applications.
+- Currently, working around Machine Learning projects, especially:
+
+1) Developing and refining anomaly detection systems for high-impact analytics, including casino and gaming platforms.
+
+2) Building intelligent dashboards using Power BI, incorporating real-time insights powered by AI.
+
+3) Designing and deploying Retrieval-Augmented Generation (RAG) pipelines with LLMs for enhanced data retrieval and automation.
+
+4) Researching advanced techniques in Generative AI and integrating them with enterprise automation tools.
+
+5) Optimizing ML workflows and MLOps for continuous delivery and reliability in critical business applications.
 - 📫 Reach me at: pratikshawagh0701@gmail.com 
 - 🌍 Location: Pune, Maharashtra
 
