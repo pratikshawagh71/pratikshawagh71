@@ -1,4 +1,4 @@
-# Hi, I'm Pratiksha👋
+# Hi, I'm PRATIKSHA👋
 
 ### AI & ML Developer | Generative AI Enthusiast | Power BI & RAG Practitioner | Data Scientist
 Building intelligent dashboards & AI-powered solutions.
@@ -6,9 +6,12 @@ Building intelligent dashboards & AI-powered solutions.
 ---
 
 ## About Me
-- 🔭 Currently focused on generative AI, Power BI data visualization, and Retrieval-Augmented Generation (RAG) systems.
-- 🌱 Passionate about creating data-driven insights and automation with AI/ML techniques.
-- 💡 Combining expertise in Mechatronics Engineering with AI for innovative solutions.
+- Currently, my focus is centered around Machine Learning projects, especially:
+Developing and refining anomaly detection systems for high-impact analytics, including casino and gaming platforms.
+Building intelligent dashboards using Power BI, incorporating real-time insights powered by AI.
+Designing and deploying Retrieval-Augmented Generation (RAG) pipelines with LLMs for enhanced data retrieval and automation.
+Researching advanced techniques in Generative AI and integrating them with enterprise automation tools.
+Optimizing ML workflows and MLOps for continuous delivery and reliability in critical business applications.
 - 📫 Reach me at: pratikshawagh0701@gmail.com 
 - 🌍 Location: Pune, Maharashtra
 
